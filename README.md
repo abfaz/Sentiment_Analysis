@@ -34,52 +34,7 @@ A team of Data Engineers have already scraped real-time data from Flipkart websi
 2. **Model Integration**: Integrate the trained sentiment classification model into the Flask app for real-time inference.
 3. **Deployment**: Deploy the Flask app on an AWS EC2 instance to make it accessible over the internet.
 
-## Installation
 
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/sentiment-analysis-flipkart-reviews.git
-    cd sentiment-analysis-flipkart-reviews
-    ```
-
-2. **Create a virtual environment**:
-    ```sh
-    python -m venv venv
-    ```
-
-3. **Activate the virtual environment**:
-    - On Windows:
-        ```sh
-        venv\Scripts\activate
-        ```
-    - On macOS/Linux:
-        ```sh
-        source venv/bin/activate
-        ```
-
-4. **Install the required dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. **Train the model**: 
-    ```sh
-    python train_model.py
-    ```
-
-2. **Run the Flask application**:
-    ```sh
-    python app.py
-    ```
-
-3. **Open your web browser** and navigate to `http://127.0.0.1:5000/` to use the sentiment analysis application.
-
-
-## License
-
-This project is licensed under the MIT License.
 
 
 
