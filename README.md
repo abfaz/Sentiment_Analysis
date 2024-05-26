@@ -16,7 +16,7 @@ A team of Data Engineers have already scraped real-time data from Flipkart websi
 
 ## Modeling Approach
 
-1. Model Selection: Train and evaluate various machine learning and deep learning models using the embedded text data.
+1. Model Selection: Train and evaluate various machine learning models like Naive Bayes, Logistic Regression, and Decesion Tree using the embedded text data.
 2. Evaluation Metric: Use the F1-Score as the evaluation metric to assess the performance of the models in classifying sentiment.
 
 ## Model Deployment
